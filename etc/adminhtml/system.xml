@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!--
 /**
- * PagBank Payment Magento Module.
+ * O2TI Payment Magento Module.
  *
- * Copyright © 2023 PagBank. All rights reserved.
+ * Copyright © 2023 O2TI. All rights reserved.
  *
  * @author    Bruno Elisei <brunoelisei@o2ti.com>
  * @license   See LICENSE for license details.
@@ -13,7 +13,7 @@
     <system>
         <section id="payment">
             <group id="pagbank_base" translate="label comment" type="text" sortOrder="8" showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
-                <include path="PagBank_FlagRecurringMagento::system/flag_recurring.xml"/>
+                <include path="O2TI_FlagRecurringMagento::system/flag_recurring.xml"/>
             </group>
         </section>
     </system>

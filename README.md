@@ -1,16 +1,16 @@
-# PagBank Flag Recurring Magento
+# O2TI PagBank Flag Recurring Magento
 
 Essa é uma extensão do módulo pagbank/payment-magento para adiconar uma flag que permite a recorrência de pagamento.
 
-Essa extensão **não faz o motor de recorrência**, ela apenas implementa a ação necessária para a PagBank identificar o pagamento como recorrente.
+Essa extensão **não faz o motor de recorrência**, ela apenas implementa a ação necessária para a O2TI identificar o pagamento como recorrente.
 
 Sua lógica de definição para o fluxo de pagamento é via configuração administrativa, implementada no arquivo Model/FlagRecurringConfigProvider.php em caso de uso em produção recomendamos alterar a lógica para captura dessa informação possivelmente baseada nos produtos do carrinho.
 
 ## Resalvas e Advertências de Uso
 
-Essa é uma extensão do módulo oficial da empresa PagBank.
+Essa é uma extensão do módulo oficial da empresa O2TI.
 
-Em caso de dúvidas e problemas com a extensão acionar o time da Pagbank/PagBank através do github.
+Em caso de dúvidas e problemas com a extensão acionar o time da Pagbank/O2TI através do github.
 
 ## Instalação
 

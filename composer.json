@@ -1,5 +1,5 @@
 {
-    "name": "pagbank/flag-recurring-magento",
+    "name": "o2ti/flag-recurring-magento",
     "description": "Add Flag to Recurring in PagBank Module",
     "require": {
         "php": "~7.4.0||~8.1.0||~8.2.0",

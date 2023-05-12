@@ -5637,7 +5637,7 @@
                     "registration.php"
                 ],
                 "psr-4": {
-                    "PagBank\\PaymentMagento\\": ""
+                    "O2TI\\PaymentMagento\\": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -5651,7 +5651,7 @@
                     "email": "brunoelisei@o2ti.com"
                 }
             ],
-            "description": "PagBank - Payment for Magento and Adobe",
+            "description": "O2TI - Payment for Magento and Adobe",
             "support": {
                 "issues": "https://github.com/pagseguro/payment-magento/issues",
                 "source": "https://github.com/pagseguro/payment-magento/tree/100.2.8"

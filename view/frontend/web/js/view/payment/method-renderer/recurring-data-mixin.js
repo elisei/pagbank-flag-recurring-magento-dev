@@ -10,7 +10,7 @@ define([
                     typeRecurring = window.checkoutConfig.pagbank_flag_recurring_magento.type;
 
                 originalData['additional_data']['recurring_type'] = typeRecurring;
-                
+
                 return originalData;
             });
 

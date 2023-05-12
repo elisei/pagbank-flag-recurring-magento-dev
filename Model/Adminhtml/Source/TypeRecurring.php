@@ -1,14 +1,14 @@
 <?php
 /**
- * PagBank Flag Recurring Module.
+ * O2TI Flag Recurring Module.
  *
- * Copyright © 2023 PagBank. All rights reserved.
+ * Copyright © 2023 O2TI. All rights reserved.
  *
  * @author    Bruno Elisei <brunoelisei@o2ti.com>
  * @license   See LICENSE for license details.
  */
 
-namespace PagBank\FlagRecurringMagento\Model\Adminhtml\Source;
+namespace O2TI\FlagRecurringMagento\Model\Adminhtml\Source;
 
 use Magento\Framework\Option\ArrayInterface;
 
