@@ -29,7 +29,7 @@ class DataAssignCcObserverPlugin
      * @param Observer $observer
      * @return void
      *
-     * @SuppressWarnings(PHPMD.UnusedLocalVariable)
+     * @SuppressWarnings(PHPMD.UnusedFormalParameter)
      */
     public function aroundExecute(DataAssignCcObserver $subject, callable $proceed, Observer $observer)
     {
